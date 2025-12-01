@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+I`m Bastian, a cybersecurity hobbyist based in Poland.
+
+I`m currently working on developing my networking and penetration testing skills.
+
+Familiar with basics of networking and OS`s like Windows and Linux.
+
+I know how to handle with with Docker, Git, Python, JS and Bash.
+     
+
 <!--
 **Yla07/Yla07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
